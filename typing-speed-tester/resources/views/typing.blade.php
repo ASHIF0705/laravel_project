@@ -165,7 +165,7 @@
     let correctChars = 0;
     let totalTyped = 0;
     let startTime = null; 
-
+// for toggelbutton
     function toggleDark() {
         document.body.classList.toggle("dark");
         themeBtn.innerHTML = document.body.classList.contains("dark") 
