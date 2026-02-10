@@ -262,7 +262,7 @@
             finishTest();
         }
     }
-
+//function for start timer
     function startTimer() {
         if (startTime === null) {
             startTime = Date.now(); 
