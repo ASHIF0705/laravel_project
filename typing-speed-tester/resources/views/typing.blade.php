@@ -123,7 +123,7 @@
             <i class="fas fa-moon"></i>
         </button>
     </div>
-
+<!--for typing area-->
     <div class="typing-area">
         <div id="display-text" class="display"></div>
         <textarea id="typing"  autofocus spellcheck="false"></textarea>
