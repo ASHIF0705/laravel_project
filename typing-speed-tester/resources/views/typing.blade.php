@@ -179,7 +179,7 @@
             loadNewParagraph();
         }
     });
-
+// for load paragrph
     async function loadNewParagraph() {
         clearInterval(timerId);
         timerStarted = false;
